@@ -1,0 +1,7 @@
+[user@localhost ~]$ node test.js 
+
+Xilica Neutrino connection test Test started
+Connected 192.168.88.42 10007
+sent: GET IN1
+Received1: IN1=-89.9
+Connection closed
